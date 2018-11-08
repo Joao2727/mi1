@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Repositery </title>
+    <meta charset="utf-8">
+</head> 
+    <style>
+        
+                   body
+{
+	background-color: #A9A9A9;
+				
+}
+    
+    img  {
+    border-radius: 8px;
+}
+    
+    </style>    
+    
+    
+<body>
+
+<h1 style="color:black"> Repositery zaydelyoussoufi</h1>
+    
+    <h2> structuur </h2> <p> hij heeft een goede structuur. </p>
+    <h2>volledigheid </h2> <p> niet elke oefeningen zijn gemaakt op zijn repositery. </p>
+<h2>regematigheid </h2 <p> hij is niet vaak op Github. </p>
+<h2>correctheid - oke </h2> <p> hij is toch wel correct in verband met zijn codes, het is netjes. </p>
+    <h2 >verbeterring </h2> <p>  nieuwe inhoud. </p> 
+    
+    
+    
+    <hr>
+<p>This is a paragraph.</p>
+    
+
+</body>
+</html>
